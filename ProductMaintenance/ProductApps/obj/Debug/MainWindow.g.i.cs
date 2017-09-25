@@ -95,6 +95,14 @@ namespace ProductApps {
         #line default
         #line hidden
         
+        
+        #line 17 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Label lblCharge;
+        
+        #line default
+        #line hidden
+        
         private bool _contentLoaded;
         
         /// <summary>
@@ -163,6 +171,9 @@ namespace ProductApps {
             
             #line default
             #line hidden
+            return;
+            case 8:
+            this.lblCharge = ((System.Windows.Controls.Label)(target));
             return;
             }
             this._contentLoaded = true;

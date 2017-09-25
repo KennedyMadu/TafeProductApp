@@ -29,3 +29,6 @@ D:\MyTafe\2107_S2\5TSD\Resources\Assessments\Test 1_170924\StudentFiles\ProductM
 C:\Users\001029302\Downloads\StudentFiles_170924\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
 C:\Users\001029302\Downloads\StudentFiles_170924\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 C:\Users\001029302\Downloads\StudentFiles_170924\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\Users\001029302\Desktop\MyProduct\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\Users\001029302\Desktop\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\Users\001029302\Desktop\MyProduct\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
